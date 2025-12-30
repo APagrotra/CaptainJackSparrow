@@ -106,33 +106,28 @@ This project successfully demonstrates the core components of a modern LLM appli
 
 ## Grading Rubric Checklist
 
-### Character Choice (10 points)
+### Character Choice
 - [x] Character: Captain Jack Sparrow from Pirates of the Caribbean
 - [x] Clear persona with distinctive speaking style
 - [x] Documented in README
 
-### RAG Implementation (25 points)
+### RAG Implementation
 - [x] Knowledge base with 20+ facts (`data/sparrow_facts.txt`)
 - [x] Vector embeddings using `sentence-transformers`
 - [x] Vector store for similarity search (`chromadb`)
 - [x] Query retrieval integrated into responses
 
-### Memory System (25 points)
+### Memory System
 - [x] Conversation history tracking
 - [x] Context-aware responses
 - [x] Sliding window memory management
 
-### Advanced Technique (20 points)
-- [x] **Calculator Tool**: Evaluate mathematical expressions
-- [x] Integrated into chatbot logic
-- [x] Safe expression evaluation
-
-### Code Quality (10 points)
+### Code Quality
 - [x] Clean, modular code structure
 - [x] Proper class organization
 - [x] Error handling
 
-### Documentation (10 points)
+### Documentation
 - [x] Comprehensive README
 - [x] Setup instructions
 - [x] Usage examples
@@ -151,4 +146,5 @@ This project successfully demonstrates the core components of a modern LLM appli
 
 ---
 
-*"This is the day you will always remember as the day you almost caught Captain Jack Sparrow!"*
+*"In the End... This is the day you will always remember as the day you almost caught Captain Jack Sparrow!😁"*
+
